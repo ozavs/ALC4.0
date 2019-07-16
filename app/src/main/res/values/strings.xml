@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ALC4</string>
+    <string name="join_us">Join us!</string>
+
+    <string name="multiline3">A community empowering the next\n generation of African technology leaders.</string>
+    <string name="multiline4">The Andela Learning\n Community</string>
+    <string name="multiline"> Track:    Android\n\n
+        Country:   Nigeria\n\n
+        Email: zealaud@gmail.com\n\n
+        Phone Number:    +2348058067526\n\n
+        Slack Username:    @Ozavs O</string>
+    <string name="myprofile">myprofile</string>
+    <string name="me">me</string>
+    <string name="multiline2">The Andela Learning Community is a network\n of people technologists and tech enthusiasts\n across Africa dedicated to learning how to use\n technology to solve humanity’s problems.The ALC facilitates your learning through the\n aid of guided mentorship from super\n awesome learning community ambassadors.\n Our goal is to provide an ever-growing\n population of aspiring technologists\n with the resources and environments they need to become world-class problem solvers.</string>
+    <string name="todo">\@string/todo</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="about_alc">about alc</string>
+    <string name="Ozavize_Ogunlade">Ozavize Ogunlade</string>
+    <string name="My_Profile">My Profile</string>
+    <string name="About_ALC">About ALC</string>
+</resources>

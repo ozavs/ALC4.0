@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <RelativeLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true"
+    tools:context=".MainActivity">
+
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="113dp"
+            android:fontFamily="@font/fondamento"
+            android:paddingStart="20dp"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:paddingTop="30dp"
+            android:paddingEnd="20dp"
+            android:text="@string/welcome_to_alc_4_0"
+            android:textColor="#000000"
+            android:textSize="35sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView"
+            android:layout_centerInParent="true"
+            android:backgroundTint="#FFAB00"
+            android:fontFamily="@font/fondamento"
+            android:onClick="loadwebView"
+            android:text="@string/about_alc"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/button3"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="74dp"
+            android:backgroundTint="#FFAB00"
+            android:fontFamily="@font/fondamento"
+            android:text="@string/My_Profile"
+            android:textSize="25sp" />
+    </RelativeLayout>
+
+
+</ScrollView>
